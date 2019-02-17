@@ -1384,12 +1384,12 @@ body {
 }
 .cid-rifGN0z6be .navbar {
   padding: .5rem 0;
-  background: #f53767;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-rifGN0z6be .navbar-dropdown.bg-color.transparent.opened {
-  background: #f53767;
+  background: #2e2e2e;
 }
 .cid-rifGN0z6be a {
   font-style: normal;
@@ -1480,7 +1480,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rifGN0z6be .dropdown .dropdown-menu {
-  background: #f53767;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2023,7 +2023,7 @@ body {
 .cid-rifPbfPYxk {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #2e2e2e;
 }
 .cid-rifPbfPYxk .mbr-section-subtitle {
   color: #767676;
@@ -2055,10 +2055,13 @@ body {
 .cid-rifPbfPYxk .img-text {
   color: #c1c1c1;
 }
+.cid-rifPbfPYxk .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rifPMpZOxp {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
 }
 .cid-rifPMpZOxp h4 {
   font-weight: 500;
@@ -2075,10 +2078,13 @@ body {
 .cid-rifPMpZOxp .card-wrapper {
   height: 100%;
 }
+.cid-rifPMpZOxp .card-title {
+  color: #ffffff;
+}
 .cid-rifQptfZJb {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #2e2e2e;
 }
 .cid-rifQptfZJb h4 {
   font-weight: 500;
@@ -2095,10 +2101,13 @@ body {
 .cid-rifQptfZJb .card-wrapper {
   height: 100%;
 }
+.cid-rifQptfZJb .card-title {
+  color: #ffffff;
+}
 .cid-rigcSMQIti {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #2e2e2e;
 }
 .cid-rigcSMQIti .mbr-section-subtitle {
   color: #767676;
@@ -2130,10 +2139,13 @@ body {
 .cid-rigcSMQIti .img-text {
   color: #c1c1c1;
 }
+.cid-rigcSMQIti .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rifCCiFkkg {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #2e2e2e;
 }
 .cid-rifCCiFkkg .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -2195,7 +2207,7 @@ body {
 .cid-rifD5Goq0c {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/banner-1990932-2000x707.png");
 }
 .cid-rifD5Goq0c .carousel-item {
   justify-content: center;
@@ -2241,13 +2253,25 @@ body {
     height: auto;
   }
 }
+.cid-rifD5Goq0c H2 {
+  color: #ffffff;
+}
+.cid-rifD5Goq0c .user_text {
+  color: #ffffff;
+}
+.cid-rifD5Goq0c .user_name {
+  color: #ffffff;
+}
 .cid-rifVpvDYIU {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #2e2e2e;
 }
 .cid-rifVpvDYIU .mbr-section-subtitle {
   color: #767676;
+}
+.cid-rifVpvDYIU H2 {
+  color: #ffffff;
 }
 .cid-rifUB7VUFF .google-map {
   height: 25rem;
