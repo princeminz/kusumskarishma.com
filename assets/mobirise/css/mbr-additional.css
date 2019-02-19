@@ -1387,12 +1387,12 @@ body {
 }
 .cid-rifGN0z6be .navbar {
   padding: .5rem 0;
-  background: rgba(150,0,0,.6);
+  background: rgba(128,0,0,.6);
   transition: none;
   min-height: 77px;
 }
 .cid-rifGN0z6be .navbar-dropdown.bg-color.transparent.opened {
-  background: rgba(150,0,0,.6);
+  background: rgba(150,0,0,.5);
 }
 .cid-rifGN0z6be a {
   font-style: normal;
