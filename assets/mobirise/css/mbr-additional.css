@@ -1387,12 +1387,14 @@ body {
 }
 .cid-rifGN0z6be .navbar {
   padding: .5rem 0;
-  background: rgba(0,0,0,0.4);
+  background: radial-gradient(ellipse farthest-corner at right bottom, #FFFFFF 0%, #FFFFAC 8%, #9f7928 25%, #8A6E2F 50%, transparent 70%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 50%);
   transition: none;
   min-height: 77px;
 }
 .cid-rifGN0z6be .navbar-dropdown.bg-color.transparent.opened {
-  background: #c11021;
+  background: radial-gradient(ellipse farthest-corner at right bottom, #FFFFFF 0%, #FFFFAC 8%, #9f7928 25%, #8A6E2F 50%, transparent 70%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 50%);
 }
 .cid-rifGN0z6be a {
   font-style: normal;
@@ -2263,7 +2265,8 @@ body {
 .cid-rifT5Rm4zp {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #c1c1c1;
+  background-color: radial-gradient(ellipse farthest-corner at right bottom, #FFFFFF 0%, #FFFFAC 8%, #9f7928 25%, #8A6E2F 50%, transparent 70%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 50%);
 }
 @media (max-width: 767px) {
   .cid-rifT5Rm4zp .content {
